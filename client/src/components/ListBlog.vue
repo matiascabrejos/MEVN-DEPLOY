@@ -9,7 +9,7 @@
           Create Blog
         </router-link>
       </div>
-      <h1 class="font-bold text-2xl text-center">Blogs</h1>
+      <h1 class="font-bold text-2xl text-center mb-2">Blogs</h1>
       <div
         class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 xl:gap-5 md:gap-5 lg:gap-5 gap-6 mb-4 text-center"
       >
